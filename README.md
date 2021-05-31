@@ -7,4 +7,4 @@ How to run the domo Program?
 
 2. Open cmd change dir to the folder
    and type: python -m http.server
-   Then open a browser and go to localhost : 8000
+   Then open a browser and go to localhost:8000
