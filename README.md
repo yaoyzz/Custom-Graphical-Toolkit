@@ -5,6 +5,6 @@ Today we have a vast ecosystem of toolkits and frameworks to draw (pun intended,
 How to run the domo Program?
 1. Open index.html in VSCode with a live server extension
 
-2. Open cmd chang dir to the folder
+2. Open cmd change dir to the folder
    and type: python -m http.server
    Then open a browser and go to localhost : 8000
